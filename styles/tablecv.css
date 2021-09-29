@@ -50,6 +50,9 @@ header{
     height: 1em;
   
 }
+abbr{
+    text-decoration: none;
+}
 .skills li:nth-of-type(2){
     border-right: 150px solid red;
     margin-right: 25px;
@@ -64,5 +67,9 @@ header{
 }
 #italics{
     font-style: italic;
+    list-style-type: none;
 }
-
+h1{
+    background-color: rgba(218, 216, 216, 0.671);
+    padding: 1em 0;
+}
