@@ -160,7 +160,7 @@ iframe{
     padding-left: 4em;
 }
 #laptop{
-    /* background-image: url(../images/laptop.jpg); */
+    background-image: url(../images/laptop.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 60vh;
@@ -170,7 +170,7 @@ iframe{
     box-shadow: 3px 3px black;
 }
 #lab{
-    /* background-image: url(../images/lab.jpg); */
+    background-image: url(../images/lab.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 60vh;
@@ -180,7 +180,7 @@ iframe{
     box-shadow: 3px 3px black;
 }
 #headphone{
-    /* background-image: url(../images/headphone.jpg); */
+    background-image: url(../images/headphone.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 60vh;
